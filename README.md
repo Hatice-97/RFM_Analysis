@@ -12,7 +12,8 @@ An e-commerce company wants to segment its customers and determine marketing str
 The company believes that marketing activities specific to customer segments that exhibit common behaviors will increase revenue.
 # Dataset
 The dataset named Online Retail II includes the sales of an online retail store based in the UK.
-The dataset can be accessed from the link below.
+The dataset can be accessed from the link.
+
 https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
 
 ### Dataset variables
