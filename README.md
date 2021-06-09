@@ -1,7 +1,7 @@
 # RFM-Analysis 
 
 ### Customer Segmentation Using RFM
-
+![rfm](https://github.com/Hatice-97/RFM_Analysis/blob/main/rfm.png)
 ## What is RFM(recency, frequency, monetary) Analysis?
 RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns. The system assigns each customer numerical scores based on these factors to provide an objective analysis. RFM analysis is based on the marketing adage that "80% of your business comes from 20% of your customers."
 
